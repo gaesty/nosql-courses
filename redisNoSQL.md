@@ -1,3 +1,0 @@
-- Mise en place de la VM [Ubuntu](https://releases.ubuntu.com/24.04.1/ubuntu-24.04.1-desktop-amd64.iso) 
-- Installation de [docker](https://docs.docker.com/engine/install/ubuntu/#install-using-the-repository) 
-- Début du TP Redis ![ScreenShot](https://github.com/gaesty/nosql-courses/blob/main/RedisSetup.png)
