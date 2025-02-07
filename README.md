@@ -4,9 +4,6 @@
 
 Ce projet illustre l'utilisation des bases de données NoSQL, en particulier Elasticsearch, en combinaison avec la stack ELK (Elasticsearch, Logstash, Kibana) dans un environnement conteneurisé Docker. Il s'inspire des concepts et exemples présentés dans les ressources suivantes :
 
-*   [Introduction ELK Stack](lien vers le document 1, si disponible)
-*   [What are NoSQL databases?](lien vers le document 2, si disponible)
-
 ## Contexte
 
 Ce projet a pour but de démontrer comment les bases de données NoSQL, et Elasticsearch en particulier, peuvent être utilisées pour des cas d'usage spécifiques tels que l'analyse de logs, la recherche full-text et le monitoring en temps réel. Le projet met en avant les avantages de la stack ELK pour l'ingestion, le traitement, le stockage et la visualisation de données non structurées.
