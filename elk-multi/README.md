@@ -1,6 +1,3 @@
-Voici une proposition de contenu pour le fichier README.md basé sur la structure de projet que vous avez partagée :
-
-```markdown
 # Projet de Traitement de Logs
 
 Ce projet est conçu pour collecter, traiter et analyser différents types de logs à l'aide de Filebeat, Logstash, et potentiellement Elasticsearch et Kibana (stack ELK).
@@ -85,9 +82,4 @@ python send_logs.py
 
 Les contributions à ce projet sont les bienvenues. Veuillez ouvrir une issue ou soumettre une pull request pour toute amélioration ou correction.
 
-## Licence
 
-[Insérez ici les informations de licence]
-```
-
-Ce README fournit une vue d'ensemble du projet, explique la structure des fichiers, donne des instructions de démarrage rapide et mentionne comment contribuer au projet. Vous pouvez l'adapter davantage en fonction des spécificités de votre projet et ajouter des sections supplémentaires si nécessaire.
