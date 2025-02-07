@@ -78,6 +78,10 @@ Pour générer des logs de test, exécutez :
 python send_logs.py
 ```
 
+## Resultat 
+
+![DashBoard](elk-multi/capture_20250207123431566.jpeg)
+
 ## Contribution
 
 Les contributions à ce projet sont les bienvenues. Veuillez ouvrir une issue ou soumettre une pull request pour toute amélioration ou correction.
