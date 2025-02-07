@@ -80,7 +80,7 @@ python send_logs.py
 
 ## Resultat 
 
-![DashBoard](elk-multi/capture_20250207123431566.jpeg)
+![DashBoard](https://github.com/gaesty/nosql-courses/blob/main/elk-multi/capture_20250207123431566.jpeg)
 
 ## Contribution
 
